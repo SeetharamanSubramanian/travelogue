@@ -1,4 +1,4 @@
-baseURL = "http://seetharamansubramaniann.github.io/travelogue"
+baseURL = "https://github.com/SeetharamanSubramanian/travelogue/tree/gh-pages"
 languageCode = "en-us"
 title = "Parsa | Personal Blog Template"
 theme = "parsa-hugo-personal-blog-theme"
