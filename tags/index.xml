@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Parsa | Personal Blog Template</title>
-    <link>http://example.org/tags/</link>
+    <link>http://seetharamansubramaniann.github.io/travelogue/tags/</link>
     <description>Recent content in Tags on Parsa | Personal Blog Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://seetharamansubramaniann.github.io/travelogue/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Article</title>
-      <link>http://example.org/tags/article/</link>
+      <link>http://seetharamansubramaniann.github.io/travelogue/tags/article/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>http://example.org/tags/article/</guid>
+      <guid>http://seetharamansubramaniann.github.io/travelogue/tags/article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fashion</title>
-      <link>http://example.org/tags/fashion/</link>
+      <link>http://seetharamansubramaniann.github.io/travelogue/tags/fashion/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>http://example.org/tags/fashion/</guid>
+      <guid>http://seetharamansubramaniann.github.io/travelogue/tags/fashion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finance</title>
-      <link>http://example.org/tags/finance/</link>
+      <link>http://seetharamansubramaniann.github.io/travelogue/tags/finance/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>http://example.org/tags/finance/</guid>
+      <guid>http://seetharamansubramaniann.github.io/travelogue/tags/finance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>http://example.org/tags/food/</link>
+      <link>http://seetharamansubramaniann.github.io/travelogue/tags/food/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>http://example.org/tags/food/</guid>
+      <guid>http://seetharamansubramaniann.github.io/travelogue/tags/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nature</title>
-      <link>http://example.org/tags/nature/</link>
+      <link>http://seetharamansubramaniann.github.io/travelogue/tags/nature/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>http://example.org/tags/nature/</guid>
+      <guid>http://seetharamansubramaniann.github.io/travelogue/tags/nature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy</title>
-      <link>http://example.org/tags/philosophy/</link>
+      <link>http://seetharamansubramaniann.github.io/travelogue/tags/philosophy/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>http://example.org/tags/philosophy/</guid>
+      <guid>http://seetharamansubramaniann.github.io/travelogue/tags/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photos</title>
-      <link>http://example.org/tags/photos/</link>
+      <link>http://seetharamansubramaniann.github.io/travelogue/tags/photos/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>http://example.org/tags/photos/</guid>
+      <guid>http://seetharamansubramaniann.github.io/travelogue/tags/photos/</guid>
       <description></description>
     </item>
     
