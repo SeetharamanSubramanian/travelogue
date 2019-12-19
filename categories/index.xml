@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Parsa | Personal Blog Template</title>
-    <link>travelogue/categories/</link>
+    <link>https://seetharamansubramanian.github.io/travelogue/categories/</link>
     <description>Recent content in Categories on Parsa | Personal Blog Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="travelogue/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seetharamansubramanian.github.io/travelogue/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Article</title>
-      <link>travelogue/categories/article/</link>
+      <link>https://seetharamansubramanian.github.io/travelogue/categories/article/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>travelogue/categories/article/</guid>
+      <guid>https://seetharamansubramanian.github.io/travelogue/categories/article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fashion</title>
-      <link>travelogue/categories/fashion/</link>
+      <link>https://seetharamansubramanian.github.io/travelogue/categories/fashion/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>travelogue/categories/fashion/</guid>
+      <guid>https://seetharamansubramanian.github.io/travelogue/categories/fashion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>travelogue/categories/food/</link>
+      <link>https://seetharamansubramanian.github.io/travelogue/categories/food/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>travelogue/categories/food/</guid>
+      <guid>https://seetharamansubramanian.github.io/travelogue/categories/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nature</title>
-      <link>travelogue/categories/nature/</link>
+      <link>https://seetharamansubramanian.github.io/travelogue/categories/nature/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>travelogue/categories/nature/</guid>
+      <guid>https://seetharamansubramanian.github.io/travelogue/categories/nature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy</title>
-      <link>travelogue/categories/philosophy/</link>
+      <link>https://seetharamansubramanian.github.io/travelogue/categories/philosophy/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>travelogue/categories/philosophy/</guid>
+      <guid>https://seetharamansubramanian.github.io/travelogue/categories/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Valuable Idea</title>
-      <link>travelogue/categories/valuable-idea/</link>
+      <link>https://seetharamansubramanian.github.io/travelogue/categories/valuable-idea/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>travelogue/categories/valuable-idea/</guid>
+      <guid>https://seetharamansubramanian.github.io/travelogue/categories/valuable-idea/</guid>
       <description></description>
     </item>
     

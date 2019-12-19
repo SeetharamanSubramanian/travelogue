@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Parsa | Personal Blog Template</title>
-    <link>travelogue/tags/</link>
+    <link>https://seetharamansubramanian.github.io/travelogue/tags/</link>
     <description>Recent content in Tags on Parsa | Personal Blog Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="travelogue/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seetharamansubramanian.github.io/travelogue/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Article</title>
-      <link>travelogue/tags/article/</link>
+      <link>https://seetharamansubramanian.github.io/travelogue/tags/article/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>travelogue/tags/article/</guid>
+      <guid>https://seetharamansubramanian.github.io/travelogue/tags/article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fashion</title>
-      <link>travelogue/tags/fashion/</link>
+      <link>https://seetharamansubramanian.github.io/travelogue/tags/fashion/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>travelogue/tags/fashion/</guid>
+      <guid>https://seetharamansubramanian.github.io/travelogue/tags/fashion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finance</title>
-      <link>travelogue/tags/finance/</link>
+      <link>https://seetharamansubramanian.github.io/travelogue/tags/finance/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>travelogue/tags/finance/</guid>
+      <guid>https://seetharamansubramanian.github.io/travelogue/tags/finance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>travelogue/tags/food/</link>
+      <link>https://seetharamansubramanian.github.io/travelogue/tags/food/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>travelogue/tags/food/</guid>
+      <guid>https://seetharamansubramanian.github.io/travelogue/tags/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nature</title>
-      <link>travelogue/tags/nature/</link>
+      <link>https://seetharamansubramanian.github.io/travelogue/tags/nature/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>travelogue/tags/nature/</guid>
+      <guid>https://seetharamansubramanian.github.io/travelogue/tags/nature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy</title>
-      <link>travelogue/tags/philosophy/</link>
+      <link>https://seetharamansubramanian.github.io/travelogue/tags/philosophy/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>travelogue/tags/philosophy/</guid>
+      <guid>https://seetharamansubramanian.github.io/travelogue/tags/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photos</title>
-      <link>travelogue/tags/photos/</link>
+      <link>https://seetharamansubramanian.github.io/travelogue/tags/photos/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>travelogue/tags/photos/</guid>
+      <guid>https://seetharamansubramanian.github.io/travelogue/tags/photos/</guid>
       <description></description>
     </item>
     
