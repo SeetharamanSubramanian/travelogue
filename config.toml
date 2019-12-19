@@ -1,4 +1,4 @@
-baseURL = "travelogue"
+baseURL = "https://seetharamansubramanian.github.io/travelogue"
 languageCode = "en-us"
 title = "Parsa | Personal Blog Template"
 theme = "parsa-hugo-personal-blog-theme"
@@ -80,7 +80,7 @@ copyright = "a theme by [themefisher.com](themefisher.com)"
 
   # Preloader
   [params.preloader]
-  enable = false
+  enable = true
   
   # search
   [params.search]
