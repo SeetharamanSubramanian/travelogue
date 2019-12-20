@@ -80,7 +80,7 @@ copyright = "a theme by [themefisher.com](themefisher.com)"
 
   # Preloader
   [params.preloader]
-  enable = true
+  enable = false
   
   # search
   [params.search]
