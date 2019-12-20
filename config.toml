@@ -66,7 +66,7 @@ home = "Home"
 # hompage layout ( two layout is available,  you can set the another layout by change the value of homeLayoutToggle "true" to "false")
 homeLayoutToggle = true
 # Meta data
-description = "This is meta description"
+description = "This blog is to catalogue all my travels, and help share them with everyone."
 # about author
 author = "Seetharaman"
 authorImage = "images/banner.jpg"
@@ -74,7 +74,7 @@ shortDescription = "I'm a Global Innovation Designer currently completing my Mas
 # Contact Form Action
 contactFormAction = "https://formspree.io/seetharaman.subrmn@gmail.com"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-154846500-1"
 # copyright
 copyright = "a theme by [themefisher.com](themefisher.com)"
 
