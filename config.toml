@@ -1,6 +1,6 @@
 baseURL = "https://seetharamansubramanian.github.io/travelogue"
 languageCode = "en-us"
-title = "Parsa | Personal Blog Template"
+title = "Seetharaman | Travelogue"
 theme = "parsa-hugo-personal-blog-theme"
 summaryLength = "10"
 paginate = 6
@@ -68,11 +68,11 @@ homeLayoutToggle = true
 # Meta data
 description = "This is meta description"
 # about author
-author = "Themefisher"
-authorImage = "images/banner-img.png"
-shortDescription = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+author = "Seetharaman"
+authorImage = "images/banner.jpg"
+shortDescription = "I'm a Global Innovation Designer currently completing my Masters at the Royal College of Art in London."
 # Contact Form Action
-contactFormAction = "#"
+contactFormAction = "https://formspree.io/seetharaman.subrmn@gmail.com"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # copyright
@@ -88,7 +88,7 @@ copyright = "a theme by [themefisher.com](themefisher.com)"
 
   # Instagram feed
   [params.instafeed]
-  enable = true
+  enable = false
   userID = "4044026246"
   accessToken = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 
@@ -97,33 +97,33 @@ copyright = "a theme by [themefisher.com](themefisher.com)"
 
     #address
     [[params.footer.addresses]]
-    address = "Sydney"
+    address = "United Kingdom"
     
     [[params.footer.addresses]]
-    address = "6 rip carl Avenue CA 90733"
+    address = "Notting Hill, London"
 
     
     #contact information
     [[params.footer.contacts]]
-    contactInfo = "Tel: +90 000 333 22"
+    contactInfo = "Tel: +44 07307708129"
     
     [[params.footer.contacts]]
-    contactInfo = "Mail: exmaple@ymail.com"
+    contactInfo = "Mail: seetharaman.subrmn@gmail.com"
 
 
   # social site
   [[params.social]]
   icon = "ti-facebook"
-  URL = "#"
+  URL = "https://www.facebook.com/subramanian.sitaraman.3"
   
   [[params.social]]
   icon = "ti-twitter-alt"
-  URL = "#"
+  URL = "https://www.twitter.com/s_seetha_raman"
   
   [[params.social]]
   icon = "ti-linkedin"
-  URL = "#"
+  URL = "https://www.linkedin.com/in/seetharaman-subramanian/"
   
   [[params.social]]
   icon = "ti-github"
-  URL = "#"
+  URL = "https://github.com/SeetharamanSubramanian"
