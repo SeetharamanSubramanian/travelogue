@@ -6,10 +6,19 @@
     <description>Recent content on Seetharaman | Travelogue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Dec 2019 10:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2019 16:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://seetharamansubramanian.github.io/travelogue/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Olafur Eliasson - Tate Modern</title>
+      <link>https://seetharamansubramanian.github.io/travelogue/eliasson/</link>
+      <pubDate>Mon, 16 Dec 2019 16:00:00 +0000</pubDate>
+      
+      <guid>https://seetharamansubramanian.github.io/travelogue/eliasson/</guid>
+      <description>Olafur Eliasson is a Danish-Icelandic artist famous for using natural elements to enhance his large and small scale exhibits while creating awareness about climate change and its impact.</description>
+    </item>
     
     <item>
       <title>Dojima Brewery Visit</title>
