@@ -127,3 +127,7 @@ copyright = "a theme by [themefisher.com](themefisher.com)"
   [[params.social]]
   icon = "ti-github"
   URL = "https://github.com/SeetharamanSubramanian"
+
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true

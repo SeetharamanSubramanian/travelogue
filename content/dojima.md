@@ -6,12 +6,13 @@ type: "post"
 image: "images/dojima-post/20191214-DSCF0040_result.jpg"
 categories: 
   - "Travel"
-  - "Alcohol"
+  - "Factory"
   - "GID"
 tags:
-  - "Photos"
+  - "Nature"
   - "Food"
   - "Sake"
+  - "Countryside"
 ---
 
 The [Dojima Sake Brewery](https://dojimabrewery.com/) is located in the small town of Ely, near Cambridge. We reached there after some delays in the train line, and proceeded with the tour of the brewery. More information about the entire process can be found on their website.
