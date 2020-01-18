@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Winter on Seetharaman | Travelogue</title>
+    <link>https://seetharamansubramanian.github.io/travelogue/tags/winter/</link>
+    <description>Recent content in Winter on Seetharaman | Travelogue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Dec 2019 10:00:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://seetharamansubramanian.github.io/travelogue/tags/winter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Christmas in Paris</title>
+      <link>https://seetharamansubramanian.github.io/travelogue/paris-christmas/</link>
+      <pubDate>Mon, 23 Dec 2019 10:00:10 +0000</pubDate>
+      
+      <guid>https://seetharamansubramanian.github.io/travelogue/paris-christmas/</guid>
+      <description>Christmas in Paris was just magical.
+ Note to self, always check the public transport situation in Paris.</description>
+    </item>
+    
+  </channel>
+</rss>
