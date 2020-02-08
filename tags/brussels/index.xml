@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brussels on Seetharaman | Travelogue</title>
+    <link>https://seetharamansubramanian.github.io/travelogue/tags/brussels/</link>
+    <description>Recent content in Brussels on Seetharaman | Travelogue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Dec 2019 10:00:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://seetharamansubramanian.github.io/travelogue/tags/brussels/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brussels for the win</title>
+      <link>https://seetharamansubramanian.github.io/travelogue/brussels-2019/</link>
+      <pubDate>Sun, 29 Dec 2019 10:00:10 +0000</pubDate>
+      
+      <guid>https://seetharamansubramanian.github.io/travelogue/brussels-2019/</guid>
+      <description>Brussels was a tiny city full of street art! We walked everywhere.</description>
+    </item>
+    
+  </channel>
+</rss>
