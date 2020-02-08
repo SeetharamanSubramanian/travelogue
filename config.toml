@@ -88,9 +88,9 @@ copyright = "a theme by [themefisher.com](themefisher.com)"
 
   # Instagram feed
   [params.instafeed]
-  enable = false
-  userID = "4044026246"
-  accessToken = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
+  enable = true
+  userID = "17841404956888005"
+  accessToken = "946d3ae33fcfb5b797017235f6a464f5"
 
   # footer
   [params.footer]

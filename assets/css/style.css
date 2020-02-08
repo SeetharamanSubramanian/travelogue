@@ -93,7 +93,7 @@ h6, .h6 {
 .btn {
   font-size: 15px;
   font-family: "zeitung", sans-serif;
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
   padding: 8px 20px;
   border-radius: 0;
   font-weight: 700;
