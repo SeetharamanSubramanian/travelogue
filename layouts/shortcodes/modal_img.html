@@ -1,0 +1,30 @@
+<!-- Trigger the Modal -->
+<img id="{{ .Get "id" }}" src="{{ .Get "src" }}" alt="Test image" class="{{.Get "class" }}">
+
+<!-- The Modal -->
+<div id="modal-{{ .Get "id" }}" class="modal">
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="modal-img-{{ .Get "id" }}">
+</div>
+
+<script>
+  
+// Get the modal
+var modal = document.getElementById("modal-{{ .Get "id" }}");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById("{{ .Get "id" }}");
+var modalImg = document.getElementById("modal-img-{{ .Get "id" }}");
+img.onclick = function(){
+  modal.style.display = "block";
+  modalImg.src = this.src;
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+
+</script>
