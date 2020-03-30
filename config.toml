@@ -61,7 +61,7 @@ paginate = 6
 
 
 [params]
-logo = "images/logo.png"
+logo = "images/logos/Asset 1.svg"
 home = "Home"
 # hompage layout ( two layout is available,  you can set the another layout by change the value of homeLayoutToggle "true" to "false")
 homeLayoutToggle = true
