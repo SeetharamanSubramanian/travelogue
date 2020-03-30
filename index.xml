@@ -6,10 +6,19 @@
     <description>Recent content on Seetharaman | Travelogue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Dec 2019 10:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2019 10:00:10 +0000</lastBuildDate>
     
 	<atom:link href="https://seetharamansubramanian.github.io/travelogue/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome 2020</title>
+      <link>https://seetharamansubramanian.github.io/travelogue/paris-new-year/</link>
+      <pubDate>Mon, 30 Dec 2019 10:00:10 +0000</pubDate>
+      
+      <guid>https://seetharamansubramanian.github.io/travelogue/paris-new-year/</guid>
+      <description>var modal = document.getElementById(&#34;modal-img0&#34;); var img = document.</description>
+    </item>
     
     <item>
       <title>Brussels for the win</title>
